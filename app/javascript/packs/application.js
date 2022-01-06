@@ -8,9 +8,9 @@ import Turbolinks from "turbolinks"
 import * as ActiveStorage from "@rails/activestorage"
 import "channels"
 
-//= require bootstrap/alert
-//= require bootstrap/dropdown
 
+// = require bootstrap/alert
+// = require bootstrap/dropdown
 Rails.start()
 Turbolinks.start()
 ActiveStorage.start()
